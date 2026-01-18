@@ -9,6 +9,12 @@ SelectAI 是一个专业的 AI 产品评测和推荐平台，旨在帮助普通�
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178c6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.0-38bdf8)
 
+## 📸 项目演示
+
+![SelectAI 演示](./demo.gif)
+
+> 💡 **提示**：如果 GIF 未显示，请确保将 `demo.gif` 文件放在项目根目录下，或使用 GitHub 仓库中的相对路径。
+
 ## ✨ 核心特性
 
 ### 🎯 场景化推荐
